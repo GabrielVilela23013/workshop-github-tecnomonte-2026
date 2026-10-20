@@ -1,0 +1,1 @@
+git branch é um comando utilizado para listar quais as branchs do repositório, utilizando um asterisco para marcar a branch atual
