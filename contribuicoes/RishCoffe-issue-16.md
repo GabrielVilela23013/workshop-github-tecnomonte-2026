@@ -1,6 +1,6 @@
 # Comando git status
 
-**Autor:** @arthurfha
+**Autor:** @RishCoffe
 
 ## O que é?
 
