@@ -1,0 +1,14 @@
+# git commit
+
+**Autor:** @victorafonsofr
+
+## O que é?
+É o ato de registrar permanentemente alterações feitas em um sistema de
+controle de versão
+
+## Como utilizar?
+git commit -m "registrando alterações feitas no código fonte!"
+
+## Dica para iniciantes
+Sempre que terminar uma versão do seu código, sempre registre
+usando o git commit com sua mensagem (-m "sua mensagem")
